@@ -1,6 +1,6 @@
 
 
-## 👋 Olá! Meu nome é ![Bianca](Bianca.gif)
+## Olá! Meu nome é ![Bianca](Bianca.gif)
 
 Sou estudante de Desenvolvimento de Sistemas no Senai Ítalo Bologna, e estou desenvolvendo habilidades em desenvolvimento web.
 
