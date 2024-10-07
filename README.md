@@ -6,7 +6,7 @@ Sou estudante de Desenvolvimento de Sistemas no Senai Ítalo Bologna, e estou de
 
 ### 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** HTML, CSS, JavaScript, Python
-- **Frameworks:** React, Node.js, Django
+- **Frameworks:** Node.js, Django
 - **Ferramentas:** Git, GitHub, VSCode, Figma
 
 ### 🚀 Projetos Atuais
