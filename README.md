@@ -1,6 +1,6 @@
 
 
-## 👋 Olá! Meu nome é ![Bianca](jjzk.gif).
+## 👋 Olá! Meu nome é ![Bianca](jjzK.gif).
 
 Sou estudante de Desenvolvimento de Sistemas no Senai Ítalo Bologna, e estou desenvolvendo habilidades em desenvolvimento web.
 
