@@ -1,6 +1,6 @@
 
 
-## 👋 Olá! Meu nome é ![Bianca](jjzK.gif) ![](borboletas.gif)
+## 👋 Olá! Meu nome é ![Bianca](jjzK.gif)
 
 Sou estudante de Desenvolvimento de Sistemas no Senai Ítalo Bologna, e estou desenvolvendo habilidades em desenvolvimento web.
 
@@ -12,4 +12,4 @@ Sou estudante de Desenvolvimento de Sistemas no Senai Ítalo Bologna, e estou de
 ### 🚀 Projetos Atuais
 - **Projeto Clínica:** Desenvolvimento completo de site da clínica fictícia SP Medical Group
 
-🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋
+ ![](borboletas.gif)
